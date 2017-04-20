@@ -1,0 +1,150 @@
+<svg height="2350" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2350" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 11:44:55 +0000 29301775 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 11:44:55 +0000    12033 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 11:44:55 +0000     1088 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 11:44:55 +0000     7256 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 11:44:55 +0000    27292 bytes  ThirdPartyNotices.txt</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 11:44:55 +0000   159392 bytes  dev/bundleInfo.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 11:44:55 +0000    29424 bytes  dev/nls.metadata.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 11:44:55 +0000   480494 bytes  dev/vs/base/worker/workerMain.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 11:44:55 +0000   654174 bytes  dev/vs/base/worker/workerMain.js.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 11:44:55 +0000     2070 bytes  dev/vs/basic-languages/src/bat.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 11:44:55 +0000     3831 bytes  dev/vs/basic-languages/src/coffee.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 11:44:55 +0000     4559 bytes  dev/vs/basic-languages/src/cpp.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 11:44:55 +0000     4347 bytes  dev/vs/basic-languages/src/csharp.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 11:44:55 +0000     4422 bytes  dev/vs/basic-languages/src/css.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 11:44:55 +0000     2356 bytes  dev/vs/basic-languages/src/dockerfile.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 11:44:55 +0000     3080 bytes  dev/vs/basic-languages/src/fsharp.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 11:44:55 +0000     2844 bytes  dev/vs/basic-languages/src/go.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 11:44:55 +0000     6440 bytes  dev/vs/basic-languages/src/handlebars.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 11:44:55 +0000     4743 bytes  dev/vs/basic-languages/src/html.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 11:44:55 +0000     1488 bytes  dev/vs/basic-languages/src/ini.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 11:44:55 +0000     5127 bytes  dev/vs/basic-languages/src/jade.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 11:44:55 +0000     3174 bytes  dev/vs/basic-languages/src/java.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 11:44:55 +0000     3955 bytes  dev/vs/basic-languages/src/less.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 11:44:55 +0000     2452 bytes  dev/vs/basic-languages/src/lua.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 11:44:55 +0000     3249 bytes  dev/vs/basic-languages/src/markdown.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 11:44:55 +0000     2793 bytes  dev/vs/basic-languages/src/objective-c.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 11:44:55 +0000     8232 bytes  dev/vs/basic-languages/src/php.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 11:44:55 +0000     8180 bytes  dev/vs/basic-languages/src/postiats.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 11:44:55 +0000     3372 bytes  dev/vs/basic-languages/src/powershell.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 11:44:55 +0000     3206 bytes  dev/vs/basic-languages/src/python.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 11:44:55 +0000     3170 bytes  dev/vs/basic-languages/src/r.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 11:44:55 +0000     8802 bytes  dev/vs/basic-languages/src/razor.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 11:44:55 +0000     8454 bytes  dev/vs/basic-languages/src/ruby.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 11:44:55 +0000     6438 bytes  dev/vs/basic-languages/src/scss.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 11:44:55 +0000    18504 bytes  dev/vs/basic-languages/src/sql.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 11:44:55 +0000     4472 bytes  dev/vs/basic-languages/src/swift.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 11:44:55 +0000     5921 bytes  dev/vs/basic-languages/src/vb.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 11:44:55 +0000     2032 bytes  dev/vs/basic-languages/src/xml.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 11:44:55 +0000     3760 bytes  dev/vs/basic-languages/src/yaml.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 11:44:55 +0000    20729 bytes  dev/vs/editor/contrib/quickOpen/browser/symbol-s\</tspan>
+<tspan x="10" y="666">prite.svg</tspan>
+<tspan x="10" y="682"> 40.  2017-04-20 11:44:55 +0000     4740 bytes  dev/vs/editor/contrib/suggest/browser/String_16x\</tspan>
+<tspan x="10" y="698">.svg</tspan>
+<tspan x="10" y="714"> 41.  2017-04-20 11:44:55 +0000     4740 bytes  dev/vs/editor/contrib/suggest/browser/String_inv\</tspan>
+<tspan x="10" y="730">erse_16x.svg</tspan>
+<tspan x="10" y="746"> 42.  2017-04-20 11:44:55 +0000   208231 bytes  dev/vs/editor/editor.main.css</tspan>
+<tspan x="10" y="762"> 43.  2017-04-20 11:44:55 +0000  4234714 bytes  dev/vs/editor/editor.main.js</tspan>
+<tspan x="10" y="778"> 44.  2017-04-20 11:44:55 +0000  6739068 bytes  dev/vs/editor/editor.main.js.map</tspan>
+<tspan x="10" y="794"> 45.  2017-04-20 11:44:55 +0000    17399 bytes  dev/vs/editor/editor.main.nls.de.js</tspan>
+<tspan x="10" y="810"> 46.  2017-04-20 11:44:55 +0000    17394 bytes  dev/vs/editor/editor.main.nls.es.js</tspan>
+<tspan x="10" y="826"> 47.  2017-04-20 11:44:55 +0000    18139 bytes  dev/vs/editor/editor.main.nls.fr.js</tspan>
+<tspan x="10" y="842"> 48.  2017-04-20 11:44:55 +0000    17952 bytes  dev/vs/editor/editor.main.nls.it.js</tspan>
+<tspan x="10" y="858"> 49.  2017-04-20 11:44:55 +0000    19183 bytes  dev/vs/editor/editor.main.nls.ja.js</tspan>
+<tspan x="10" y="874"> 50.  2017-04-20 11:44:55 +0000    15359 bytes  dev/vs/editor/editor.main.nls.js</tspan>
+<tspan x="10" y="890"> 51.  2017-04-20 11:44:55 +0000    17385 bytes  dev/vs/editor/editor.main.nls.ko.js</tspan>
+<tspan x="10" y="906"> 52.  2017-04-20 11:44:55 +0000    25442 bytes  dev/vs/editor/editor.main.nls.ru.js</tspan>
+<tspan x="10" y="922"> 53.  2017-04-20 11:44:55 +0000    14106 bytes  dev/vs/editor/editor.main.nls.zh-cn.js</tspan>
+<tspan x="10" y="938"> 54.  2017-04-20 11:44:55 +0000    14444 bytes  dev/vs/editor/editor.main.nls.zh-tw.js</tspan>
+<tspan x="10" y="954"> 55.  2017-04-20 11:44:55 +0000    19962 bytes  dev/vs/language/css/cssMode.js</tspan>
+<tspan x="10" y="970"> 56.  2017-04-20 11:44:55 +0000   460049 bytes  dev/vs/language/css/cssWorker.js</tspan>
+<tspan x="10" y="986"> 57.  2017-04-20 11:44:55 +0000    18316 bytes  dev/vs/language/html/htmlMode.js</tspan>
+<tspan x="10" y="1002"> 58.  2017-04-20 11:44:55 +0000   107981 bytes  dev/vs/language/html/htmlWorker.js</tspan>
+<tspan x="10" y="1018"> 59.  2017-04-20 11:44:55 +0000    35478 bytes  dev/vs/language/json/jsonMode.js</tspan>
+<tspan x="10" y="1034"> 60.  2017-04-20 11:44:55 +0000    88115 bytes  dev/vs/language/json/jsonWorker.js</tspan>
+<tspan x="10" y="1050"> 61.  2017-04-20 11:44:55 +0000  1267979 bytes  dev/vs/language/typescript/lib/typescriptService\</tspan>
+<tspan x="10" y="1066">s.js</tspan>
+<tspan x="10" y="1082"> 62.  2017-04-20 11:44:55 +0000    19779 bytes  dev/vs/language/typescript/src/mode.js</tspan>
+<tspan x="10" y="1098"> 63.  2017-04-20 11:44:55 +0000  1479085 bytes  dev/vs/language/typescript/src/worker.js</tspan>
+<tspan x="10" y="1114"> 64.  2017-04-20 11:44:55 +0000    74784 bytes  dev/vs/loader.js</tspan>
+<tspan x="10" y="1130"> 65.  2017-04-20 11:44:55 +0000    84476 bytes  dev/vs/loader.js.map</tspan>
+<tspan x="10" y="1146"> 66.  2017-04-20 11:44:55 +0000   620615 bytes  min-maps/vs/base/worker/workerMain.js.map</tspan>
+<tspan x="10" y="1162"> 67.  2017-04-20 11:44:55 +0000  5816867 bytes  min-maps/vs/editor/editor.main.js.map</tspan>
+<tspan x="10" y="1178"> 68.  2017-04-20 11:44:55 +0000    24479 bytes  min-maps/vs/editor/editor.main.nls.de.js.map</tspan>
+<tspan x="10" y="1194"> 69.  2017-04-20 11:44:55 +0000    24435 bytes  min-maps/vs/editor/editor.main.nls.es.js.map</tspan>
+<tspan x="10" y="1210"> 70.  2017-04-20 11:44:55 +0000    25219 bytes  min-maps/vs/editor/editor.main.nls.fr.js.map</tspan>
+<tspan x="10" y="1226"> 71.  2017-04-20 11:44:55 +0000    24974 bytes  min-maps/vs/editor/editor.main.nls.it.js.map</tspan>
+<tspan x="10" y="1242"> 72.  2017-04-20 11:44:55 +0000    26062 bytes  min-maps/vs/editor/editor.main.nls.ja.js.map</tspan>
+<tspan x="10" y="1258"> 73.  2017-04-20 11:44:55 +0000    22246 bytes  min-maps/vs/editor/editor.main.nls.js.map</tspan>
+<tspan x="10" y="1274"> 74.  2017-04-20 11:44:55 +0000    24269 bytes  min-maps/vs/editor/editor.main.nls.ko.js.map</tspan>
+<tspan x="10" y="1290"> 75.  2017-04-20 11:44:55 +0000    32450 bytes  min-maps/vs/editor/editor.main.nls.ru.js.map</tspan>
+<tspan x="10" y="1306"> 76.  2017-04-20 11:44:55 +0000    20992 bytes  min-maps/vs/editor/editor.main.nls.zh-cn.js.map</tspan>
+<tspan x="10" y="1322"> 77.  2017-04-20 11:44:55 +0000    21288 bytes  min-maps/vs/editor/editor.main.nls.zh-tw.js.map</tspan>
+<tspan x="10" y="1338"> 78.  2017-04-20 11:44:55 +0000   107129 bytes  min-maps/vs/loader.js.map</tspan>
+<tspan x="10" y="1354"> 79.  2017-04-20 11:44:55 +0000   138528 bytes  min/vs/base/worker/workerMain.js</tspan>
+<tspan x="10" y="1370"> 80.  2017-04-20 11:44:55 +0000     2070 bytes  min/vs/basic-languages/src/bat.js</tspan>
+<tspan x="10" y="1386"> 81.  2017-04-20 11:44:55 +0000     3831 bytes  min/vs/basic-languages/src/coffee.js</tspan>
+<tspan x="10" y="1402"> 82.  2017-04-20 11:44:55 +0000     4559 bytes  min/vs/basic-languages/src/cpp.js</tspan>
+<tspan x="10" y="1418"> 83.  2017-04-20 11:44:55 +0000     4347 bytes  min/vs/basic-languages/src/csharp.js</tspan>
+<tspan x="10" y="1434"> 84.  2017-04-20 11:44:55 +0000     4422 bytes  min/vs/basic-languages/src/css.js</tspan>
+<tspan x="10" y="1450"> 85.  2017-04-20 11:44:55 +0000     2356 bytes  min/vs/basic-languages/src/dockerfile.js</tspan>
+<tspan x="10" y="1466"> 86.  2017-04-20 11:44:55 +0000     3080 bytes  min/vs/basic-languages/src/fsharp.js</tspan>
+<tspan x="10" y="1482"> 87.  2017-04-20 11:44:55 +0000     2844 bytes  min/vs/basic-languages/src/go.js</tspan>
+<tspan x="10" y="1498"> 88.  2017-04-20 11:44:55 +0000     6440 bytes  min/vs/basic-languages/src/handlebars.js</tspan>
+<tspan x="10" y="1514"> 89.  2017-04-20 11:44:55 +0000     4743 bytes  min/vs/basic-languages/src/html.js</tspan>
+<tspan x="10" y="1530"> 90.  2017-04-20 11:44:55 +0000     1488 bytes  min/vs/basic-languages/src/ini.js</tspan>
+<tspan x="10" y="1546"> 91.  2017-04-20 11:44:55 +0000     5127 bytes  min/vs/basic-languages/src/jade.js</tspan>
+<tspan x="10" y="1562"> 92.  2017-04-20 11:44:55 +0000     3174 bytes  min/vs/basic-languages/src/java.js</tspan>
+<tspan x="10" y="1578"> 93.  2017-04-20 11:44:55 +0000     3955 bytes  min/vs/basic-languages/src/less.js</tspan>
+<tspan x="10" y="1594"> 94.  2017-04-20 11:44:55 +0000     2452 bytes  min/vs/basic-languages/src/lua.js</tspan>
+<tspan x="10" y="1610"> 95.  2017-04-20 11:44:55 +0000     3249 bytes  min/vs/basic-languages/src/markdown.js</tspan>
+<tspan x="10" y="1626"> 96.  2017-04-20 11:44:55 +0000     2793 bytes  min/vs/basic-languages/src/objective-c.js</tspan>
+<tspan x="10" y="1642"> 97.  2017-04-20 11:44:55 +0000     8232 bytes  min/vs/basic-languages/src/php.js</tspan>
+<tspan x="10" y="1658"> 98.  2017-04-20 11:44:55 +0000     8180 bytes  min/vs/basic-languages/src/postiats.js</tspan>
+<tspan x="10" y="1674"> 99.  2017-04-20 11:44:55 +0000     3372 bytes  min/vs/basic-languages/src/powershell.js</tspan>
+<tspan x="10" y="1690">100.  2017-04-20 11:44:55 +0000     3206 bytes  min/vs/basic-languages/src/python.js</tspan>
+<tspan x="10" y="1706">101.  2017-04-20 11:44:55 +0000     3170 bytes  min/vs/basic-languages/src/r.js</tspan>
+<tspan x="10" y="1722">102.  2017-04-20 11:44:55 +0000     8802 bytes  min/vs/basic-languages/src/razor.js</tspan>
+<tspan x="10" y="1738">103.  2017-04-20 11:44:55 +0000     8454 bytes  min/vs/basic-languages/src/ruby.js</tspan>
+<tspan x="10" y="1754">104.  2017-04-20 11:44:55 +0000     6438 bytes  min/vs/basic-languages/src/scss.js</tspan>
+<tspan x="10" y="1770">105.  2017-04-20 11:44:55 +0000    18504 bytes  min/vs/basic-languages/src/sql.js</tspan>
+<tspan x="10" y="1786">106.  2017-04-20 11:44:55 +0000     4472 bytes  min/vs/basic-languages/src/swift.js</tspan>
+<tspan x="10" y="1802">107.  2017-04-20 11:44:55 +0000     5921 bytes  min/vs/basic-languages/src/vb.js</tspan>
+<tspan x="10" y="1818">108.  2017-04-20 11:44:55 +0000     2032 bytes  min/vs/basic-languages/src/xml.js</tspan>
+<tspan x="10" y="1834">109.  2017-04-20 11:44:55 +0000     3760 bytes  min/vs/basic-languages/src/yaml.js</tspan>
+<tspan x="10" y="1850">110.  2017-04-20 11:44:55 +0000    20729 bytes  min/vs/editor/contrib/quickOpen/browser/symbol-s\</tspan>
+<tspan x="10" y="1866">prite.svg</tspan>
+<tspan x="10" y="1882">111.  2017-04-20 11:44:55 +0000     4740 bytes  min/vs/editor/contrib/suggest/browser/String_16x\</tspan>
+<tspan x="10" y="1898">.svg</tspan>
+<tspan x="10" y="1914">112.  2017-04-20 11:44:55 +0000     4740 bytes  min/vs/editor/contrib/suggest/browser/String_inv\</tspan>
+<tspan x="10" y="1930">erse_16x.svg</tspan>
+<tspan x="10" y="1946">113.  2017-04-20 11:44:55 +0000   168150 bytes  min/vs/editor/editor.main.css</tspan>
+<tspan x="10" y="1962">114.  2017-04-20 11:44:55 +0000  1601820 bytes  min/vs/editor/editor.main.js</tspan>
+<tspan x="10" y="1978">115.  2017-04-20 11:44:55 +0000    16166 bytes  min/vs/editor/editor.main.nls.de.js</tspan>
+<tspan x="10" y="1994">116.  2017-04-20 11:44:55 +0000    16179 bytes  min/vs/editor/editor.main.nls.es.js</tspan>
+<tspan x="10" y="2010">117.  2017-04-20 11:44:55 +0000    16832 bytes  min/vs/editor/editor.main.nls.fr.js</tspan>
+<tspan x="10" y="2026">118.  2017-04-20 11:44:55 +0000    16699 bytes  min/vs/editor/editor.main.nls.it.js</tspan>
+<tspan x="10" y="2042">119.  2017-04-20 11:44:55 +0000    17976 bytes  min/vs/editor/editor.main.nls.ja.js</tspan>
+<tspan x="10" y="2058">120.  2017-04-20 11:44:55 +0000    14091 bytes  min/vs/editor/editor.main.nls.js</tspan>
+<tspan x="10" y="2074">121.  2017-04-20 11:44:55 +0000    16172 bytes  min/vs/editor/editor.main.nls.ko.js</tspan>
+<tspan x="10" y="2090">122.  2017-04-20 11:44:55 +0000    24247 bytes  min/vs/editor/editor.main.nls.ru.js</tspan>
+<tspan x="10" y="2106">123.  2017-04-20 11:44:55 +0000    12910 bytes  min/vs/editor/editor.main.nls.zh-cn.js</tspan>
+<tspan x="10" y="2122">124.  2017-04-20 11:44:55 +0000    13242 bytes  min/vs/editor/editor.main.nls.zh-tw.js</tspan>
+<tspan x="10" y="2138">125.  2017-04-20 11:44:55 +0000    19962 bytes  min/vs/language/css/cssMode.js</tspan>
+<tspan x="10" y="2154">126.  2017-04-20 11:44:55 +0000   460049 bytes  min/vs/language/css/cssWorker.js</tspan>
+<tspan x="10" y="2170">127.  2017-04-20 11:44:55 +0000    18316 bytes  min/vs/language/html/htmlMode.js</tspan>
+<tspan x="10" y="2186">128.  2017-04-20 11:44:55 +0000   107981 bytes  min/vs/language/html/htmlWorker.js</tspan>
+<tspan x="10" y="2202">129.  2017-04-20 11:44:55 +0000    35478 bytes  min/vs/language/json/jsonMode.js</tspan>
+<tspan x="10" y="2218">130.  2017-04-20 11:44:55 +0000    88115 bytes  min/vs/language/json/jsonWorker.js</tspan>
+<tspan x="10" y="2234">131.  2017-04-20 11:44:55 +0000  1267979 bytes  min/vs/language/typescript/lib/typescriptService\</tspan>
+<tspan x="10" y="2250">s.js</tspan>
+<tspan x="10" y="2266">132.  2017-04-20 11:44:55 +0000    19779 bytes  min/vs/language/typescript/src/mode.js</tspan>
+<tspan x="10" y="2282">133.  2017-04-20 11:44:55 +0000  1479085 bytes  min/vs/language/typescript/src/worker.js</tspan>
+<tspan x="10" y="2298">134.  2017-04-20 11:44:55 +0000    26999 bytes  min/vs/loader.js</tspan>
+<tspan x="10" y="2314">135.  2017-04-20 11:44:55 +0000   175808 bytes  monaco.d.ts</tspan>
+<tspan x="10" y="2330">136.  2017-04-20 11:44:55 +0000      850 bytes  package.json</tspan>
+</text>
+</svg>
